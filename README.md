@@ -21,9 +21,10 @@
     2. Unzip the zip file, and open the folder.
     3. Run the python file using the python IDE you have on your device.
     
-### Now, it's time to get to know how to use the script, it's even easier. I have include a guide in the script, and what you need to do is just to follow the script, and enter the information of the target.
+### Now, it's time to get to know how to use the script, it's even easier. 
+I have include a guide in the script, and what you need to do is just to follow the script, and enter the information of the target.
 
-### Here is a screenshot of the interface of this script, you can think this as a demo.
+### Here are screenshots of the interface of this script, you can think this as a demo.
 ![image](https://user-images.githubusercontent.com/88573201/212327358-2207d9ee-31a8-495e-ae99-46a3855ec8d3.png)
 ![image](https://user-images.githubusercontent.com/88573201/212328245-102277ca-a818-469c-8e78-36abc69e60a8.png)
 ![image](https://user-images.githubusercontent.com/88573201/212328878-331d7ae6-c537-4507-8080-eb67987e8e98.png)
